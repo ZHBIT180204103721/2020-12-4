@@ -1,0 +1,6 @@
+import java.util.*
+class leader{
+  private string name;
+  private string address;
+  private string gongzi;
+}
